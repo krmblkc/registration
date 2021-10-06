@@ -1,4 +1,4 @@
-# registration
+# Registration & Login App
 I designed registration and login system with Spring Boot, thymeleaf and Spring Security.
 
 The Registration Page:![registration](https://user-images.githubusercontent.com/67893921/136177854-4147003a-4214-4591-8d7c-6046ee67195d.png)
